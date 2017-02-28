@@ -1,0 +1,176 @@
+/* Empty. Add your own CSS if you like */
+
+#toggle-menu-left-header {
+    height: 154px;
+    background: url(../img/background_cover_pixels.png) repeat 0;
+    background-position-x: 8px;
+    color: white;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.14), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+    background-repeat: repeat;
+    background-size: 80%;
+    z-index: 9000;
+}
+#toggle-menu-left-header div.menu-left-header {
+    position: relative;
+    top: 58%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    margin: 0 0 0 16px;
+}
+#toggle-menu-left-header div.menu-left-header img.user-img {
+    border-radius: 50%;
+    width: 62px;
+    height: 62px;
+    margin-bottom: 2px;
+}
+#toggle-menu-left-header div.menu-left-header p {
+    font-weight: bolder;
+}
+#toggle-menu-left-header div.menu-left-header p span.title {
+    font-size: 16px;
+}
+#toggle-menu-left-header div.menu-left-header p span.sub-title {
+    font-size: 12px;
+}
+#toggle-menu-left-content {
+    margin-top: 154px;
+}
+#toggle-menu-left-content md-list h2 {
+    background-color: transparent !important;
+}
+#toggle-menu-left-content md-list h2 div.md-subheader-inner {
+    background-color: transparent !important;
+}
+#toggle-menu-left-content md-list md-list-item.menu-list-item {
+    display: table;
+    width: 100%;
+}
+#toggle-menu-left-content md-list md-list-item.menu-list-item i {
+    margin-right: 30px;
+    margin-left: 22px;
+    font-size: 19px;
+    color: gray;
+    width: 20px;
+}
+#toggle-menu-left-content md-list md-list-item.menu-list-item span {
+    font-size: 15px;
+}
+#toggle-menu-left-content .menu-list .menu-item {
+    padding: 14px;
+}
+#toggle-menu-left-content .menu-list .menu-item .col-33 {
+    text-align: center;
+    font-size: 22px;
+    color: gray;
+}
+#toggle-menu-left-content .menu-list .menu-item .col-66 {
+    font-size: 15px;
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+}
+.md-subheader.md-warn {
+    color: #00897B !important;
+}
+.md-button.md-icon-button
+{
+  height: 0px !important;
+  line-height: 34px !important;
+  margin: 0 0 0 6px;
+}
+.ion-android-more-vertical
+{
+  font-size: 25px;
+}
+.title.title-left.header-item {
+    left: 90px !important;
+}
+.md-list-item-default p {
+    font-size: 15px;
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+}
+.md-list-item-default i {
+    margin-right: 32px;
+    margin-left: 22px;
+    font-size: 22px;
+    color: #00897B !important;
+}
+.fa.fa-asterisk.language
+{
+  margin-left: 7px;
+  padding-left: 0px;
+  /*margin-right: 4px;*/
+      font-size: 25px;
+}
+.col-md-6
+{
+  width: 50%;
+}
+md-content.left.md-content.md-default-theme {
+    width: 50%;
+}
+md-content.right.md-content.md-default-theme {
+    width: 50%;
+}
+/*#pricing-content {
+    height: 45px;
+}*/
+.price-header .header-name {
+  padding-left: 20px;
+  color: white;
+}
+.price-header .header-more {
+    text-align: right;
+    /*color: white;*/
+    color: #cec6c6;
+      padding-right: 20px;
+}
+.price-header {
+    margin: 0px 0 0px 0;
+    background-color: #00897B !important;
+}
+.cards
+{
+  height:500px;
+  margin-top: 100px;
+}
+.feed-list.row
+{
+  margin-top:15px;
+}
+.feed-list .feed-item {
+    margin-bottom: 10px;
+    background-color: white;
+    box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.14), 0px 2px 2px 0px rgba(0, 0, 0, 0.098), 0px 1px 5px 0px rgba(0, 0, 0, 0.084);
+}
+.feed-list .feed-item .feed-img {
+    height: 136px;
+    background-size: cover;
+}
+.feed-list .feed-item .feed-content {
+    padding: 8px 4px 5px 4px;
+    color: gray;
+    font-size: 14px;
+    font-weight: 500;
+}
+.feed-list .feed-item .feed-content .right {
+    text-align: right;
+}
+div#categorylist
+{
+    background-color: #00897B !important;
+}
+
+.kdh
+{
+  display: flex;
+}
+.col-33{
+  padding: 15px;
+}
+.col-66{
+  padding: 15px;
+}
